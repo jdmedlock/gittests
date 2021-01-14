@@ -6,4 +6,3 @@ console.log (`file-1.js: List numbers in an array`);
 list.forEach(i => console.log(`...${i}`));
 console.log(`...Finished!`);
 console.log(`But is SEAN finished???`);
-console.log(`Jim is Dope`)
